@@ -1,4 +1,4 @@
-import { Avatar, HStack } from '@chakra-ui/react'
+import { HStack } from '@chakra-ui/react'
 import React from 'react'
 import {  useColorMode, Button } from '@chakra-ui/react'
 import { MdOutlineLightMode, MdOutlineDarkMode } from 'react-icons/md';

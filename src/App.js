@@ -5,7 +5,6 @@ import Home from "./components/Home";
 import Coins from "./components/Coins";
 import CoinDetails from "./components/CoinDetails";
 import Exchange from "./components/Exchanges";
-import { Box } from "@chakra-ui/react";
 import Footer from "./components/Footer";
 
 function App() {

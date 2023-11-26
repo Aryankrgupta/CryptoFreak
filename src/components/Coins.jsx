@@ -4,7 +4,6 @@ import React from 'react'
 import { server } from '../index';
 import CoinCard from './CoinCard';
 import ErrorComponents from './ErrorComponents';
-import ExchangeCard from './ExchangeCard';
 import Loader from './Loader';
 
 
